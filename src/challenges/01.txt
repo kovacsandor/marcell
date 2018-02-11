@@ -1,0 +1,8 @@
+1. Töltsd le egy friss verzióját kódnak - Synchronize
+2. Indíts el az alkalmazást - npm start
+3 .Írj egy olyan függvényt, ami paraméterként vár egy számot és a konzolba kiírja annak a négyzetét
+4. A függvényt hívd meg az index.js fájlban
+5 .Írj egy olyan függvényt, ami paraméterként vár két számot és a konzolba kiírja azoknak az összegét
+6. A függvényt hívd meg az index.js fájlban
+7. Ha működik buildelj - npm run build - és nézd meg a böngészőben ezúttal a fájlrendszerből szemlélődve, hogy továbbra is működik-e a kód
+8. Ha végeztél a változtatásaidat commitáld, majd Synchronize
